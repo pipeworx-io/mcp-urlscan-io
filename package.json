@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-urlscan-io",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "urlscan.io MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "urlscan-io",
     "gatewaySlug": "urlscan-io",
-    "sourceHash": "v1-eec4176da08371f2e300c0d219c8784b2929f888cce80279004726f41b6f7f9a",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-71fe0128a3ae7b1256e8d505e1f3ba37e7e0217993514f962fbe3f1b7043c62a",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
